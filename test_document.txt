@@ -1,0 +1,7 @@
+Bu bizim yerel yapay zeka asistanımızın test belgesidir.
+
+Yerel asistan belgeleri okuyabilir, belgeleri küçük parçalara ayırabilir ve daha sonra bu parçalar üzerinde arama yapabilir.
+
+RAG sistemi kullanılarak kullanıcının sorularına belgelerde bulunan bilgiler üzerinden cevap verilmesi amaçlanmaktadır.
+
+Sistem ilerleyen aşamalarda PDF, DOCX ve TXT dosyalarını destekleyecektir.
